@@ -109,18 +109,3 @@ After a run, open the generated reports in the `test-output/` folder:
 - `index.html` and `emailable-report.html`: standard TestNG reports
 
 Screenshots are saved to the `screenshots/` folder.
-
-## Roadmap
-
-- [ ] Add negative tests (invalid login, locked-out user, empty checkout fields)
-- [ ] Add a data-driven login test using TestNG `@DataProvider`
-- [ ] Attach screenshots to the report automatically on failure
-- [ ] Add explicit waits in place of implicit waits
-- [ ] Run tests in CI with GitHub Actions
-- [ ] Add cross-browser support (Firefox, Edge)
-- [ ] Add API tests with REST Assured
-
-## Author
-
-**Som Kunar**
-[LinkedIn](https://www.linkedin.com/in/som-kunar-211631319/) · [GitHub](https://github.com/SKK402) · somkunar208@gmail.com
